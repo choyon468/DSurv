@@ -1,5 +1,5 @@
 # DSurv
-A Web 3 application to build crypto tokens and supply the tokens to different canisters. This crypto token is called DHOYON and can be used to trade in the Web 3 marketplace. 
+A Web 3 application to generate crypto tokens and supply the tokens to different canisters. This crypto token is called DHOYON and can be used to trade in the Web 3 marketplace. 
 ## Requirements:
 1. Internet Computer development needs to be set up in your machine.
 2. For this project specifically, the required version of dfx is 0.9.3, and the node version of 16.
